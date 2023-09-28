@@ -1,0 +1,14 @@
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\bin\Debug\net6.0\simple_mad_lib_game.exe
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\bin\Debug\net6.0\simple_mad_lib_game.deps.json
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\bin\Debug\net6.0\simple_mad_lib_game.runtimeconfig.json
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\bin\Debug\net6.0\simple_mad_lib_game.dll
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\bin\Debug\net6.0\simple_mad_lib_game.pdb
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.AssemblyInfoInputs.cache
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.AssemblyInfo.cs
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.csproj.CoreCompileInputs.cache
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.dll
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\refint\simple_mad_lib_game.dll
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.pdb
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\simple_mad_lib_game.genruntimeconfig.cache
+D:\workspace\simple_mad_lib_game\simple_mad_lib_game\obj\Debug\net6.0\ref\simple_mad_lib_game.dll
